@@ -1,2 +1,2 @@
-# DeltaDroneX
-game
+# Deltadrone
+Delta Simulator
